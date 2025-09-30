@@ -27,8 +27,8 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-2B2B2B?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
----
-
+<img alt="coder" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcyberpress.org%2Fstate-sponsored-hackers-widely-deploy-clickfix-attack%2F&psig=AOvVaw0BgQTFK1UALGh9RO3kuw8l&ust=1759352834889000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCAvKiygZADFQAAAAAdAAAAABAK"/>
+ 
 <!-- ===== Quote more mysterious ===== -->
 
 

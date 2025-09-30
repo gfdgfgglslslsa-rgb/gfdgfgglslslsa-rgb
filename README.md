@@ -1,6 +1,6 @@
 <!-- README.md -->
 <!-- ===== عنوان رهيب وغامض ===== -->
-<h1 align="center"> ghost </h1>
+<h1 align="center"> Ghost </h1>
 <p align="center">
   <em>"I write code  in the shadows."</em>
 </p>
@@ -30,12 +30,7 @@
 ---
 
 <!-- ===== Quote more mysterious ===== -->
-<h2 align="left">🕶 Cipher Line</h2>
-<p align="center" style="font-style:italic">
-  "In the void between pulses, I plant algorithms — they bloom only at midnight."
-</p>
 
----
 
 <!-- ===== مكان لصورة بدل Featured Repos ===== -->
 

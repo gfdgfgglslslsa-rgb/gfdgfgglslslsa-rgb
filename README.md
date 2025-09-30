@@ -26,9 +26,10 @@
   <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-2B2B2B?style=flat-square&logo=linux&logoColor=white" />
 </p>
-
+<p align="center>"
 <img alt="coder" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQu5ajFecAwB-TUM3LPoLfIFRKnD3_1OuuDy9Ey0o7nGdggQBvU9FubtN7WnxN27RwPWte9o_eyZzKTs978ppd-DTtCZDk40PSuQhjs_spypdKHMWUFHXqafMHAco6EYET3AHNtzHfekzWdCukqhG3nDSbOTRHJKY4SlGjiuunXeQ-1U8KP0uY015I59c/s16000/State-Sponsored%20Hackers.webp" width="700" />
-<!-- ===== Quote more mysterious ===== -->
+</p>
+  <!-- ===== Quote more mysterious ===== -->
 
 
 <!-- ===== مكان لصورة بدل Featured Repos ===== -->

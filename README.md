@@ -27,8 +27,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-2B2B2B?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
-<img alt="coder" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcyberpress.org%2Fstate-sponsored-hackers-widely-deploy-clickfix-attack%2F&psig=AOvVaw0BgQTFK1UALGh9RO3kuw8l&ust=1759352834889000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCAvKiygZADFQAAAAAdAAAAABAK"/>
- 
+<img alt="coder" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQu5ajFecAwB-TUM3LPoLfIFRKnD3_1OuuDy9Ey0o7nGdggQBvU9FubtN7WnxN27RwPWte9o_eyZzKTs978ppd-DTtCZDk40PSuQhjs_spypdKHMWUFHXqafMHAco6EYET3AHNtzHfekzWdCukqhG3nDSbOTRHJKY4SlGjiuunXeQ-1U8KP0uY015I59c/s16000/State-Sponsored%20Hackers.webp"/>
 <!-- ===== Quote more mysterious ===== -->
 
 

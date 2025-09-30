@@ -27,7 +27,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-2B2B2B?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
-<img alt="coder" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQu5ajFecAwB-TUM3LPoLfIFRKnD3_1OuuDy9Ey0o7nGdggQBvU9FubtN7WnxN27RwPWte9o_eyZzKTs978ppd-DTtCZDk40PSuQhjs_spypdKHMWUFHXqafMHAco6EYET3AHNtzHfekzWdCukqhG3nDSbOTRHJKY4SlGjiuunXeQ-1U8KP0uY015I59c/s16000/State-Sponsored%20Hackers.webp" width="300" />
+<img alt="coder" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQu5ajFecAwB-TUM3LPoLfIFRKnD3_1OuuDy9Ey0o7nGdggQBvU9FubtN7WnxN27RwPWte9o_eyZzKTs978ppd-DTtCZDk40PSuQhjs_spypdKHMWUFHXqafMHAco6EYET3AHNtzHfekzWdCukqhG3nDSbOTRHJKY4SlGjiuunXeQ-1U8KP0uY015I59c/s16000/State-Sponsored%20Hackers.webp" width="700" />
 <!-- ===== Quote more mysterious ===== -->
 
 
